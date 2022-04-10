@@ -1,0 +1,25 @@
+{
+  "name": "twitbot",
+  "version": "1.0.0",
+  "description": "A tweeter bot that retweets conversation around a particular topic",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highb33kay/twitbot.git"
+  },
+  "keywords": [
+    "twitbot"
+  ],
+  "author": "highb33kay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/highb33kay/twitbot/issues"
+  },
+  "homepage": "https://github.com/highb33kay/twitbot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
